@@ -1,0 +1,3 @@
+﻿  HeadsOrTails.cpp
+c:\users\daking\source\repos\headsortails\headsortails\headsortails.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HeadsOrTails.vcxproj -> C:\Users\DaKing\Source\Repos\HeadsOrTails\Debug\HeadsOrTails.exe

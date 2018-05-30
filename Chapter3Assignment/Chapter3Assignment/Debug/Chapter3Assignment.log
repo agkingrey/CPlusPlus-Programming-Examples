@@ -1,0 +1,6 @@
+﻿  Chapter3Assignment.cpp
+c:\users\daking\documents\visual studio 2015\projects\chapter3assignment\chapter3assignment\chapter3assignment.cpp(9): warning C4447: 'main' signature found without threading model. Consider using 'int main(Platform::Array<Platform::String^>^ args)'.
+  XamlTypeInfo.g.cpp
+     Creating library c:\users\daking\documents\visual studio 2015\Projects\Chapter3Assignment\Debug\Chapter3Assignment\Chapter3Assignment.lib and object c:\users\daking\documents\visual studio 2015\Projects\Chapter3Assignment\Debug\Chapter3Assignment\Chapter3Assignment.exp
+  Chapter3Assignment.vcxproj -> c:\users\daking\documents\visual studio 2015\Projects\Chapter3Assignment\Debug\Chapter3Assignment\Chapter3Assignment.exe
+  Chapter3Assignment.vcxproj -> c:\users\daking\documents\visual studio 2015\Projects\Chapter3Assignment\Debug\Chapter3Assignment\Chapter3Assignment.pdb (Partial PDB)

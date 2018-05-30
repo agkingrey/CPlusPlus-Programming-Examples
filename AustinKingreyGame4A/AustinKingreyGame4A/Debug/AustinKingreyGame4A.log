@@ -1,0 +1,4 @@
+﻿  AustinKingreyGame4A.cpp
+c:\users\daking\source\repos\austinkingreygame4a\austinkingreygame4a\austinkingreygame4a.cpp(252): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\daking\source\repos\austinkingreygame4a\austinkingreygame4a\austinkingreygame4a.cpp(233): warning C4715: 'Character::navigation': not all control paths return a value
+  AustinKingreyGame4A.vcxproj -> C:\Users\DaKing\Source\Repos\AustinKingreyGame4A\Debug\AustinKingreyGame4A.exe

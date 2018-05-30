@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-FK5J385</Machine>
+    <WindowsUser>DaKing</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>bb55d953-39f2-4d25-8b98-cdfbd8fe6f43</PackageIdentityName>
+    <PackageIdentityPublisher>CN=DaKing</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\Users\DaKing\documents\visual studio 2015\Projects\Chapter3Assignment\Chapter3Assignment\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>93B38585C725A400A4CE0F2E8E02072D92D5E072F712AFCD46900574FE66B997</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>bb55d953-39f2-4d25-8b98-cdfbd8fe6f43_1.0.0.0_x86__fzqp2jg005y90</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>bb55d953-39f2-4d25-8b98-cdfbd8fe6f43_fzqp2jg005y90!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>bb55d953-39f2-4d25-8b98-cdfbd8fe6f43</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=DaKing</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\daking\documents\visual studio 2015\Projects\Chapter3Assignment\Debug\Chapter3Assignment\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-09T19:57:24.820</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\daking\documents\visual studio 2015\Projects\Chapter3Assignment\Debug\Chapter3Assignment\Chapter3Assignment.exe">
+      <PackagePath>Chapter3Assignment.exe</PackagePath>
+      <Modified>2017-09-09T19:57:23.605</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\daking\documents\visual studio 2015\Projects\Chapter3Assignment\Debug\Chapter3Assignment\Chapter3Assignment.winmd">
+      <PackagePath>Chapter3Assignment.winmd</PackagePath>
+      <Modified>2017-09-09T19:57:21.654</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\DaKing\documents\visual studio 2015\Projects\Chapter3Assignment\Chapter3Assignment\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-09-20T22:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\DaKing\documents\visual studio 2015\Projects\Chapter3Assignment\Chapter3Assignment\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T22:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\DaKing\documents\visual studio 2015\Projects\Chapter3Assignment\Chapter3Assignment\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T22:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\DaKing\documents\visual studio 2015\Projects\Chapter3Assignment\Chapter3Assignment\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T22:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\DaKing\documents\visual studio 2015\Projects\Chapter3Assignment\Chapter3Assignment\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T22:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\DaKing\documents\visual studio 2015\Projects\Chapter3Assignment\Chapter3Assignment\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T22:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\DaKing\documents\visual studio 2015\Projects\Chapter3Assignment\Chapter3Assignment\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T22:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.10586.0\\redist\Debug\x86\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+      <Modified>2016-03-29T14:11:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\daking\documents\visual studio 2015\Projects\Chapter3Assignment\Debug\Chapter3Assignment\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-09T19:57:24.611</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.24210.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.24210.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.24210.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.24210.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.24210.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.24210.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
